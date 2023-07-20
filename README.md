@@ -11,9 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/UmaAgrawal)
 
-- 📝 I regularly write articles on [Blogs on Medium](https://medium.com/@UmaAgrawal)
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Artificial Intelligence**
+- 💬 Ask me about **Data Science, Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **agrawaluma2nov@gmail.com**
 
