@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UmaAgrawal" alt="UmaAgrawal" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Data Science**
+- 🌱 I’m currently learning ** Data Science 360**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/UmaAgrawal)
 
